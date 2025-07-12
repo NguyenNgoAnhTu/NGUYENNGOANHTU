@@ -15,8 +15,8 @@ I enjoy stepping out of my comfort zone, exploring different roles, and constant
 
 ### 📌 Contributions by Language
 
-- **Java**: Built [Metro Ticket Backend](https://github.com/hcmurs/metro-be) with microservice architecture  
-- **Kotlin**: Developed mobile ticketing UI with [Jetpack Compose](https://github.com/hcmurs/metro-app)  
+- **Java**: Contributed [Metro Ticket Backend](https://github.com/hcmurs/metro-be) with microservice architecture  
+- **Kotlin**: Developed mobile features using [Jetpack Compose](https://github.com/hcmurs/metro-app)  
 - **TypeScript**: Worked on [Frontend ReactJS with Tailwind](https://github.com/hcmurs/metro-fe)  
 ---
 
